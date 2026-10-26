@@ -25,7 +25,7 @@ Bu proje, staj sürecim boyunca geliştirdiğim ve Android'in en güncel teknolo
 
 ## 📱 Ekran Görüntüleri
 
-*(Buraya projenin ekran görüntülerini koyabilirsiniz)*
+
 <!-- 
 <img src="screenshot_login.png" width="250">
 <img src="screenshot_home.png" width="250">
