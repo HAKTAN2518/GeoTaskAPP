@@ -23,9 +23,6 @@ Bu proje, staj sürecim boyunca geliştirdiğim ve Android'in en güncel teknolo
 * **Harita & Lokasyon:** OSMDroid, Google Play Services Location API
 * **Arka Plan Servisleri:** Foreground Service, NotificationManager
 
-## 📱 Ekran Görüntüleri
-
-
 <!-- 
 <img src="screenshot_login.png" width="250">
 <img src="screenshot_home.png" width="250">
@@ -43,7 +40,3 @@ Bu proje, staj sürecim boyunca geliştirdiğim ve Android'in en güncel teknolo
 4. Android Studio'da `app/src/main/java/.../api/RetrofitClient.kt` ve `network_security_config.xml` dosyalarındaki IP adreslerini kendi backend IP adresinizle değiştirin.
 5. Uygulamayı bir emülatör veya gerçek Android (10+) cihaz üzerinde çalıştırın.
 
-## 👨‍💻 Geliştirici
-
-Bu proje **[Senin Adın/Soyadın]** tarafından geliştirilmiştir. 
-Staj sürecim boyunca bana kattıkları değerler için şirket ekibine teşekkür ederim.
